@@ -1,4 +1,6 @@
-<!---
-bodle720/bodle720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Description
+This is where I will store personal projects related to applications of machine learning and miscellaneous mathematical topics.
+
+# Projects
+
+
