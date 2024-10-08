@@ -3,8 +3,8 @@ This is where I will store personal projects related to applications of machine 
 
 # Repositories
 - DSTopics
-&nbsp;&nbsp;&nbsp; Applications of data science tools.
+  &nbsp;&nbsp;&nbsp;Applications of data science tools.
 - MLProjects
-&nbsp;&nbsp;&nbsp; Machine Learning applications.
+  &nbsp;&nbsp;&nbsp; Machine Learning applications.
 
 
