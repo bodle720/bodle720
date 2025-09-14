@@ -1,5 +1,5 @@
 # Description
-This is where I will store personal projects and applications of machine learning and data science applications.
+This is where I will store personal projects and applications of machine learning and useful data science topics.
 
 # Repositories
 - [DSTopics](https://github.com/bodle720/DSTopics)<br/>
