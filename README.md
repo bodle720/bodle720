@@ -41,3 +41,6 @@ This repository is less deployment-focused than `MLProjects` and more focused on
 - Dockerized model serving
 - Model evaluation, diagnostics, and production-readiness analysis
 - Applied mathematics and data science notebooks
+
+Profile Photo by <a href="https://unsplash.com/@choys_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Conny Schneider</a> on <a href="https://unsplash.com/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
