@@ -20,7 +20,7 @@ Applied computer vision and machine learning engineering, including cloud-based 
 
 Geospatial analysis, remote sensing, applied mathematics, and scientific computing, with an emphasis on mathematical foundations, practical implementation, and visualization.
 
-- [Anchorage Through the Seasons](https://github.com/bodle720/DSTopics/tree/main/Anchorage_Seasons) — Seasonal vegetation, snow, and ice analysis using Sentinel-2 satellite imagery.
+- [Anchorage Through the Seasons](https://github.com/bodle720/DSTopics/tree/main/Anchorage_Seasons/Anchorage_Seasons.ipynb) — Seasonal vegetation, snow, and ice analysis using Sentinel-2 satellite imagery.
 - Mathematical explorations of PCA, ICA, and Dynamic Mode Decomposition.
 
 ## Technical Areas
