@@ -7,7 +7,7 @@ I build practical computer vision and machine learning systems with an emphasis 
 **[Explore My Portfolio Website](https://bodle720.github.io/)**
 
 <p align="center">
-  <img src="images/urban_vision_to_satellite_mapping.png" width="100%" alt="Computer Vision and Geospatial Analysis">
+  <img src="images/Urban Vision to Satellite Mapping.png" width="100%" alt="Computer Vision and Geospatial Analysis">
 </p>
 
 ## Repositories
